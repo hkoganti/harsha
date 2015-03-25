@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//Im editing from github.com account
 int main() { int n, count, sum=0;
 printf("Enter an integer: "); 
 scanf("%d",&n); count=1;
