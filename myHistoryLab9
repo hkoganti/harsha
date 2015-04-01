@@ -1,0 +1,14 @@
+    1  add sum.c
+    2  git add sum.c
+    3  cd myFirst1
+    4  git add sum.c
+    5  > sum.c
+    6  vim sum.c
+    7  ls
+    8  vim sum.c
+    9  git status
+   10  git add .
+   11  git commit
+   12  hystory>myHistoryLab9
+   13  git hystory>myHistoryLab9
+   14  history>myHistoryLab9
