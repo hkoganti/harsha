@@ -1,0 +1,28 @@
+a   1  history
+    2  git heelp
+    3  git help
+    4  git config --global user.name "Anil"
+    5  git config --global user.email "anilv.90@gmail.com"
+    6  mkdir myFirst
+    7  cd myFirst
+    8  pwd
+    9  vim myprog.c
+   10  git init
+   11  ls
+   12  git add
+   13  git add . 
+   14  git commit
+   15  modify myprog.c
+   16  git status
+   17  git add
+   18  git add . 
+   19  git commit
+   20  git clone https://github.com/Anil27/Anil
+   21  git remote add origin https://github.com/Anil27/Anil
+   22  git push origin master
+   23* 
+   24  git pull origin master
+   25  git push origin master
+   26  git pull origin master
+   27  history
+   28  history >> myHistory:

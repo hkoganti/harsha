@@ -1,0 +1,67 @@
+    1  cd myFirst
+    2  pwd
+    3  git init
+    4  ls
+    5  git commit
+    6  git status
+    7  git add .
+    8  git commit
+    9  git remote add origin https://github.com/ldepiccoli/.git
+   10  git remote add origin https://github.com/ldepiccoli/*.git
+   11  git remote add origin https://github.com/ldepiccoli/003.git
+   12  git confic --global user.name ldepiccoli
+   13  git config --global user.name ldepiccoli
+   14  git config --global user.email ldepiccoli@my.okcu.edu
+   15  git remote add origin https://github.com/ldepiccoli/003.git
+   16  git remote add origin master
+   17  git status
+   18  git commit
+   19  git status
+   20* git reset HEAD .gitconfi
+   21  git reset HEAD _viminfo
+   22  git commit
+   23  git add .
+   24  git commit
+   25  git status
+   26  pwd
+   27  ls
+   28  git reset HEAD _viminfo
+   29  ls
+   30  rm README.md 
+   31  rm _viminfo 
+   32  LS
+   33  ls
+   34  git status
+   35  git init
+   36  ls
+   37  git status
+   38  cd..
+   39  cd ..
+   40  ls
+   41  rmdir myFirst
+   42  cd myFirst
+   43  ls
+   44  rm hello.c
+   45  cd ..
+   46  rmdir myFirst
+   47  pwd
+   48  cd ..
+   49  ls
+   50  cd 
+   51  ls
+   52  mkdir myFirst1
+   53  cd myFirst1
+   54  git init
+   55  nano
+   56  vim hello.c
+   57  git status
+   58  git add .
+   59  git commit
+   60  git status
+   61  git remote origin master 
+   62* git 
+   63  git remote add origin https://github.com/ldepiccoli/003.git
+   64* git push master 
+   65  git push origin master https://github.com/ldepiccoli/003.git
+   66  git push origin master 
+   67  history>myHistory
